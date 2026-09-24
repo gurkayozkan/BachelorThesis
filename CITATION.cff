@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use or reference this work, please cite the thesis."
+title: "The Impact of Government Spending on GDP Growth: Cross-Country Comparison"
+type: thesis
+authors:
+  - family-names: "Özkan"
+    given-names: "Gürkay"
+year: 2024
+institution: "Istanbul Technical University"
+repository-code: "https://github.com/gurkayozkan/BachelorThesis"
